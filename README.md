@@ -19,4 +19,6 @@ Day 4 of #100DaysofCode
 i added a file of random project to save a gew of the learning  
 challenges throughout the class. Today i learned about random  
 numbers and lists and nested lists   
-
+  
+Day 5 of #100DaysofCode  
+Learned about for loops and how to use them in applications

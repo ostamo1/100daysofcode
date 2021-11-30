@@ -4,6 +4,24 @@
 from os import system
 system("cls")
 ####################################
+
+#!/bin/python3
+#11-23-2021 Learning about Variable types in python being mutable or immutable
+#also learning about precicion and fractions and Booleans and floats and ints
+
+#tuples
+# t=()
+# type(t)
+# one_element_tuple = (42,)
+# three_element_tuple = (1,2,3)
+# a,b,c = 4,5,6
+# print(a)
+# print(b)
+# print(c)
+# print(one_element_tuple)
+# print(three_element_tuple)
+# print(3 in three_element_tuple)
+
 # num=int(input("how many numbers "))
 # x=0
 # for x in range(1,num+1):
@@ -118,11 +136,28 @@ system("cls")
 # map[row-1][column-1]="💲"
 # print(f"{row1}\n{row2}\n{row3}")
 ##########
+# mylist="180, 124, 165, 173, 189, 169, 146"
+# heights=mylist.split(", ")
+# avgheight=0
+# for x in heights:
+#     avgheight+=int(x)
 
+# print(round(avgheight/len(heights)))
 ##########
+# mylist="100, 65, 89, 86, 55, 91, 64, 89, 99"
+# heights=mylist.split(", ")
+# score=0
+# for x in heights:
+#     if score <=int(x):
+#         score=int(x)
+    
 
+# print(score)
 ##########
-
+# import random
+# s = 'abcde'
+# sr = ''.join(random.sample(s, len(s)))
+# print(sr)
 ##########
 
 ##########
