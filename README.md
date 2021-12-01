@@ -22,3 +22,10 @@ numbers and lists and nested lists
   
 Day 5 of #100DaysofCode  
 Learned about for loops and how to use them in applications
+
+Day 6 and 7  of #100DaysofCode  
+Learned about functions and how to use them 
+as well as on day 7 made a hangman project  
+i also decided to make a modules directory for importing  
+and make a directory structure for days as to keep the main  
+directory cleaner.I may keep some projects in the main directory
