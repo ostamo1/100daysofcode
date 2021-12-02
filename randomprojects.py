@@ -159,9 +159,115 @@ system("cls")
 # sr = ''.join(random.sample(s, len(s)))
 # print(sr)
 ##########
+# chosenword="aardvark"
+# triesleft=len(chosenword)
+# shownword = list(chosenword)
+# for x in range(0, triesleft):
+#   shownword[x]='_'
+
+# print(''.join(shownword))
+##########
+# import math
+# height= int(input("height"))
+# width= int(input("width"))
+# coverage=5
+
+# def calc(h,w,c):
+#   area=math.ceil((h*w)/c)
+#   print(f" {area} cans")
+
+# calc(height,width,coverage)
+
+##########
+# def prime_checker(number):
+#   isprime=True
+#   #listofnums=[]
+#   for x in range(2,number):
+#     if (number % x == 0):
+#       isprime = False
+
+#   if isprime == True:
+#     print(f"{number} is a prime number")
+
+
+# #n = int(input("Check this number: "))
+# for x in range(2,121):
+#   prime_checker(number=x)
 
 ##########
 
 ##########
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
+##########
+
 ####################################
 print("\n\n")
