@@ -29,3 +29,11 @@ as well as on day 7 made a hangman project
 i also decided to make a modules directory for importing  
 and make a directory structure for days as to keep the main  
 directory cleaner.I may keep some projects in the main directory
+  
+Day 8 of #100DaysofCode  
+Learned how to encode and decode a ceaser cipher
+
+Day 9 of #100DaysofCode  
+Learned about dictionaries but now i need to slow down  
+100 days of code as i am studying for a certification so this  
+may not be a daily update
